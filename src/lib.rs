@@ -1,4 +1,4 @@
-#![feature(const_fn_trait_bound)]
+// #![feature(const_fn_trait_bound)]
 #![feature(const_btree_new)]
 //! A set-trie data structure for fast superset/subset retrieval.
 use std::cmp::Ordering;

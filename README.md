@@ -1,3 +1,7 @@
+![Check](https://github.com/miochris/settrie/actions/workflows/check.yml/badge.svg)
+![Lints](https://github.com/miochris/settrie/actions/workflows/lints.yml/badge.svg)
+![Test](https://github.com/miochris/settrie/actions/workflows/test.yml/badge.svg)
+![Coverage](https://github.com/miochris/settrie/actions/workflows/coverage.yml/badge.svg)
 
 # settrie
 

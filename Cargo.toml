@@ -1,6 +1,6 @@
 [package]
 name = "settrie"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2018"
 authors = ["Qiang Liu <qiangliu135@gmail.com>"]
 repository = "https://github.com/miochris/settrie"
